@@ -1,14 +1,14 @@
 //
-//  FindMeUITests.swift
-//  FindMeUITests
+//  soulmeUITests.swift
+//  soulmeUITests
 //
-//  Created by Keith Chan on 2/27/20.
+//  Created by Keith Chan on 2/28/20.
 //  Copyright © 2020 com.mingloan. All rights reserved.
 //
 
 import XCTest
 
-class FindMeUITests: XCTestCase {
+class soulmeUITests: XCTestCase {
 
     override func setUp() {
         // Put setup code here. This method is called before the invocation of each test method in the class.

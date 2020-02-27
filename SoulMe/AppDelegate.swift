@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  FindMe
+//  SoulMe
 //
 //  Created by Keith Chan on 2/27/20.
 //  Copyright © 2020 com.mingloan. All rights reserved.
@@ -10,8 +10,6 @@ import UIKit
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
-
-
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.

@@ -1,6 +1,6 @@
 //
 //  HomeViewController.swift
-//  FindMe
+//  SoulMe
 //
 //  Created by Keith Chan on 2/27/20.
 //  Copyright © 2020 com.mingloan. All rights reserved.
@@ -8,6 +8,8 @@
 
 import UIKit
 import MapKit
+import SnapKit
+import RxSwift
 
 class HomeViewController: UIViewController {
 

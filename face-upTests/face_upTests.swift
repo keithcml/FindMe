@@ -1,15 +1,15 @@
 //
-//  soulmeTests.swift
-//  soulmeTests
+//  face_upTests.swift
+//  face-upTests
 //
 //  Created by Keith Chan on 2/28/20.
 //  Copyright © 2020 com.mingloan. All rights reserved.
 //
 
 import XCTest
-@testable import soulme
+@testable import face_up
 
-class soulmeTests: XCTestCase {
+class face_upTests: XCTestCase {
 
     override func setUp() {
         // Put setup code here. This method is called before the invocation of each test method in the class.
